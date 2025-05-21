@@ -44,8 +44,5 @@
 ## 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=kusureddie1234&theme=darkhub&no-frame=false&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-## 🐍 Watch snake eating my GitHub contributions  
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kusureddie1234/Kusureddie1234/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)

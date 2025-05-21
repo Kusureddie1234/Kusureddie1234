@@ -48,4 +48,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ## 🐍 Watch snake eating my GitHub contributions  
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kusureddie1234/kusureddie1234/output/snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kusureddie1234/Kusureddie1234/output/github-contribution-grid-snake.svg" />

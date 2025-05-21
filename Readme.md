@@ -45,4 +45,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kusureddie1234&theme=darkhub&no-frame=false&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
 
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
